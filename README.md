@@ -38,7 +38,7 @@ This will seed your database with a starter environment to work from.
 
 # Concept
 
-For this application, I wanted to display different strings of data from an api. Ie wanted to dynamically show information to the user.
+For this application, I wanted to display different strings of data from an api. I wanted to dynamically show information to the user.
 
 # License
 
