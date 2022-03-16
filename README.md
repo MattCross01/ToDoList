@@ -24,7 +24,7 @@ To learn how to install React, [Click Here](https://reactjs.org/docs/getting-sta
 Next you will need to install the packages. To do so type in the following commands into your terminal.
 
 ```bash
-npm install
+npx json-server -p 3500 -w data/db.json
 ```
 Running this command will download the necessary dependancies for the application to run.
 
@@ -46,9 +46,9 @@ For this application, I wanted to display different strings of data from an api.
 
 # Screen Recording
 
-Example of how deployed application should run:
+Example of how deployed application should run with the backend running too:
 
-![ScreenshotRecording]()
+![ScreenshotRecording](https://i.ibb.co/QdVMrBy/program.png)
 
 # Contributions
 
