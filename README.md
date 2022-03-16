@@ -42,11 +42,11 @@ For this application, I wanted to display different strings of data from an api.
 
 # License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/thebadams/Pokemon-TCG-App/blob/development-trunk/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)]
 
 # Screen Recording
 
-Example of how deployed application should run with the backend running too:
+Example of how application should run with the backend running too:
 
 ![ScreenshotRecording](https://i.ibb.co/QdVMrBy/program.png)
 
