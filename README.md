@@ -24,14 +24,14 @@ To learn how to install React, [Click Here](https://reactjs.org/docs/getting-sta
 Next you will need to install the packages. To do so type in the following commands into your terminal.
 
 ```bash
-npx json-server -p 3500 -w data/db.json
+npm install
 ```
 Running this command will download the necessary dependancies for the application to run.
 
 If running locally, make sure to use the 'db' folder to set up the database, as well as running the command
 
 ```bash
-npm run seed
+npx json-server -p 3500 -w data/db.json
 ```
 
 This will seed your database with a starter environment to work from.
